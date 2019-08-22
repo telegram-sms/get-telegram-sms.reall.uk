@@ -1,1 +1,2 @@
 /get/wiki/* https://github.com/telegram-sms/telegram-sms/wiki/:splat 301
+/get/donate https://github.com/telegram-sms/telegram-sms/blob/master/README.md#give-a-cup-of-coffee-and-let-me-better-maintain-this-project 301
