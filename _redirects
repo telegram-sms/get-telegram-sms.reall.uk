@@ -1,4 +1,4 @@
 /get/wiki/* https://github.com/telegram-sms/telegram-sms/wiki/:splat 301
 /get/donate https://github.com/telegram-sms/telegram-sms/blob/master/README.md#buy-me-a-cup-of-coffee-to-help-maintain-this-project-further 302
-/get/donate/alipay https://static.reallct.com/2019/03/05/5c7d4ebc3e1f0.jpg 302
-/get/donate/unionpay https://static.reallct.com/2019/02/21/5c6d812840bac.png 302
+/donate/alipay https://static.reallct.com/2019/03/05/5c7d4ebc3e1f0.jpg 302
+/donate/unionpay https://static.reallct.com/2019/02/21/5c6d812840bac.png 302
