@@ -2,6 +2,7 @@
 /get/wiki/* https://github.com/telegram-sms/telegram-sms/wiki/:splat 302
 /get/donate https://github.com/telegram-sms/telegram-sms/blob/master/README.md#buy-me-a-cup-of-coffee-to-help-maintain-this-project-further 302
 #new
+https://qrcode.reall.uk https://qrcode.telegram-sms.com 301
 / https://github.com/telegram-sms 301
 /wiki/* https://github.com/telegram-sms/telegram-sms/wiki/:splat 302
 /donate https://github.com/telegram-sms/telegram-sms/blob/master/README.md#buy-me-a-cup-of-coffee-to-help-maintain-this-project-further 302
