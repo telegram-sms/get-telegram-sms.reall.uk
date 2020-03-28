@@ -1,7 +1,12 @@
 https://qrcode.reall.uk https://qrcode.telegram-sms.com 301
 https://bbs.telegram-sms.com https://reall.uk 301
 / https://github.com/telegram-sms 301
-/wiki/* https://guide.telegram-sms.com/:splat 302
+/wiki/User_manual https://guide.telegram-sms.com/en_gb/User-manual 302
+/wiki/Privacy_policy https://guide.telegram-sms.com/en_gb/Privacy-policy 302
+/wiki/用戶手冊 https://guide.telegram-sms.com/zh_tw/User-manual 302
+/wiki/隱私條款 https://guide.telegram-sms.com/zh_tw/Privacy-policy 302
+/wiki/用户手册 https://guide.telegram-sms.com/zh_cn/User-manual 302
+/wiki/隐私条款 https://guide.telegram-sms.com/zh_cn/Privacy-policy 302
 /license https://github.com/telegram-sms/telegram-sms/blob/master/LICENSE 302
 /donate https://github.com/telegram-sms/telegram-sms/blob/master/README.md#buy-me-a-cup-of-coffee-to-help-maintain-this-project-further 302
 /donate/paypal https://paypal.me/nicoranshi 302
