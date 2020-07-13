@@ -1,6 +1,7 @@
 https://qrcode.reall.uk https://qrcode.telegram-sms.com 301
 https://bbs.telegram-sms.com https://reall.uk 301
 / https://github.com/telegram-sms 301
+/wiki/* https://guide.telegram-sms.com/:splat
 /wiki/User_manual https://guide.telegram-sms.com/en_gb/User-manual 302
 /wiki/Privacy_policy https://guide.telegram-sms.com/en_gb/Privacy-policy 302
 /wiki/%E7%94%A8%E6%88%B6%E6%89%8B%E5%86%8A https://guide.telegram-sms.com/zh_tw/User-manual 302
